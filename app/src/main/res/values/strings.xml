@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Staff</string>
+    <string name="txt_name">Tim Cook</string>
+    <string name="txt_phone1">(650) 555-1234</string>
+    <string name="txt_title_mobile">Mobile</string>
+    <string name="txt_phone2">(323) 555-6789</string>
+    <string name="txt_email">timcook@apple.com</string>
+</resources>
